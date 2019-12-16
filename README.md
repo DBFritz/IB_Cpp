@@ -2,6 +2,7 @@
 
 Solutions to the exercises given at the Object Oriented Programming course at the Balseiro Institute (2018)
 
+Final Score: 10 out of 10.
 
 ## Syllabus
 
